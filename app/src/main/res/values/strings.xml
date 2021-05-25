@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo_04_Persistence_Bundle</string>
+    <string name="msg_initial">Message de base</string>
+    <string name="label_main_update_msg">Modifier le text :</string>
+    <string name="hint_new_msg">Nouveau titre</string>
+    <string name="btn_update_msg">Mise à jours !</string>
+</resources>
